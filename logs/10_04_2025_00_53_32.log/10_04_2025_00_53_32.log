@@ -1,0 +1,12 @@
+[ 2025-10-04 00:53:34,711 ] 18 root - INFO - Data injestion Initiated 
+[ 2025-10-04 00:53:37,794 ] 66 root - INFO - Performed train test split on the dataframe
+[ 2025-10-04 00:53:37,794 ] 68 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2025-10-04 00:53:37,796 ] 76 root - INFO - Exporting train and test file path.
+[ 2025-10-04 00:53:37,866 ] 85 root - INFO - Exported train and test file path.
+[ 2025-10-04 00:53:37,866 ] 20 root - INFO - Data injestion completed
+[ 2025-10-04 00:53:37,876 ] 25 root - INFO - initiate the data validation
+[ 2025-10-04 00:53:38,022 ] 32 root - INFO - Required number of columns:2
+[ 2025-10-04 00:53:38,023 ] 33 root - INFO - Data frame has columns:31
+[ 2025-10-04 00:53:38,030 ] 32 root - INFO - Required number of columns:2
+[ 2025-10-04 00:53:38,030 ] 33 root - INFO - Data frame has columns:31
+[ 2025-10-04 00:53:38,328 ] 27 root - INFO - data validation completed
