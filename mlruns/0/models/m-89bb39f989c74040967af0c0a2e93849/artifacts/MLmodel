@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/KIIT/OneDrive/Desktop/NETWORK_SECURITY_ML/NETWORK_SECURITY_PROJECT/mlruns/0/models/m-89bb39f989c74040967af0c0a2e93849/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-89bb39f989c74040967af0c0a2e93849
+model_size_bytes: 13777439
+model_uuid: m-89bb39f989c74040967af0c0a2e93849
+prompts: null
+run_id: 8eea7dc6ad5a4ddbac928aee9cfaa1c4
+utc_time_created: '2025-10-04 15:01:48.317137'
