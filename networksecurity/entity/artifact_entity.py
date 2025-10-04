@@ -21,7 +21,7 @@ class DataTransformationArtifact:   #data transformation
     transformed_test_file_path: str
 
 @dataclass
-class ClassificationMetricArtifact:
+class ClassificationMetricArtifact: ## for model training
     f1_score: float
     precision_score: float
     recall_score: float

@@ -65,7 +65,7 @@ def load_numpy_array_data(file_path: str) -> np.array:
     """
     load numpy array data from file
     file_path: str location of file to load
-    return: np.array data loaded
+    return: np.array data loaded ...
     """
     try:
         with open(file_path, "rb") as file_obj:
@@ -104,4 +104,4 @@ def evaluate_models(X_train, y_train,X_test,y_test,models,param):
         return report
 
     except Exception as e:
-        raise NetworkSecurityException(e, sys)
+        raise NetworkSecurityException(e, sys) 
