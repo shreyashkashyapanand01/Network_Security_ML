@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/KIIT/OneDrive/Desktop/NETWORK_SECURITY_ML/NETWORK_SECURITY_PROJECT/mlruns/0/models/m-baf80728252642a38e151c4ac6251c51/artifacts
+creation_timestamp: 1759578541526
+experiment_id: '0'
+last_updated_timestamp: 1759578546074
+model_id: m-baf80728252642a38e151c4ac6251c51
+model_type: null
+name: model
+source_run_id: f33b93929ef040dfa7963f82a00fa92b
+status: 2
+status_message: null
